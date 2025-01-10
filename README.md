@@ -7,10 +7,10 @@
 <h1 align="center">Hi 👋, I'm Tegar</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 <p align="center">
-🔭 I’m currently working on [Genesist](https://genesist.soca.ai/)  
+🔭 I’m currently working on <a href="https://soca.ai/" target="_blank">Soca AI</a>  
 </p>
-<p>
-👨‍💻 All of my projects are available at [https://tegarxx.xyz/](https://tegarxx.xyz/)  
+<p align="center">
+👨‍💻 All of my projects are available at <a href="https://tegarxx.xyz/" target="_blank">tegarxx.xyz</a>  
 </p>
 
 -
