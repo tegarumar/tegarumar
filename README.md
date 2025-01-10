@@ -6,9 +6,14 @@
 
 <h1 align="center">Hi 👋, I'm Tegar</h1>
 <h3 align="center">A passionate Software Engineer</h3>
+<p align="center">
+🔭 I’m currently working on [Genesist](https://genesist.soca.ai/)  
+</p>
+<p>
+👨‍💻 All of my projects are available at [https://tegarxx.xyz/](https://tegarxx.xyz/)  
+</p>
 
-- 🔭 I’m currently working on [Genesist](https://genesist.soca.ai/)
-- 👨‍💻 All of my projects are available at [https://tegarxx.xyz/](https://tegarxx.xyz/)
+-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
