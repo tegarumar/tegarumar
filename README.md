@@ -1,15 +1,13 @@
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+<!--   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif"> -->
   <img width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJlcGl3d2tyZmxmd2N0ems4OHNla2FrYWd1bHV3M2R0Nm90Z3ltNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bMJqfOtgVEyI2PLnaW/200.gif">
 </p>
 
 
 <h1 align="center">Hi 👋, I'm Tegar</h1>
-<h3 align="center">A passionate website developer from Indonesia</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 - 🔭 I’m currently working on [Genesist](https://genesist.soca.ai/)
-
-
 - 👨‍💻 All of my projects are available at [https://tegarxx.xyz/](https://tegarxx.xyz/)
 
 <h3 align="left">Connect with me:</h3>
